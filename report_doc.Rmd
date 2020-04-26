@@ -1,0 +1,22 @@
+---
+title: "Stat Report"
+output:
+  pdf_document:       
+header-includes: \usepackage{float}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,fig.width = 5,fig.height = 3, fig.pos='h')
+
+```
+
+                  
+# **1 Head1**
+
+## **1.1 Head2**              
+           
+
+
+
+
+
